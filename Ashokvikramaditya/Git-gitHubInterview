@@ -1,0 +1,72 @@
+Hii guys 👋, This are the Git and Github interview based real-time questions. I hope this information more helps you .
+
+
+Q1.How did you set up version control when starting a new project in your organization?
+
+Q2. Describe a situation where you had to resolve a Git conflict during a merge.
+
+Q3. How did you generate and use SSH keys to connect to GitHub securely in production systems?
+
+Q4 Describe a situation where you used a feature branch and raised a pull request.
+
+Q5 Explain a time you needed to roll back a faulty commit in Git.
+
+Q6 How did you manage team access securely when using GitHub repositories?
+
+Q7 Explain a situation where you used Git tags in production releases.
+
+Q8 Share your experience of forking a public repository and customizing it for internal use.
+
+Q9 Describe a situation where you used GitHub Issues for project tracking.
+
+Q10. Tell me about a time you used git log and git blame for debugging production issues.
+
+Q11. How did you create a README file that helped onboard new developers?
+
+Q12. Describe how you handled a hotfix in production using Git.
+
+Q13. How did you automate GitHub access using Personal Access Tokens (PAT) for shell scripts?
+
+Q14. Tell me about a situation where multiple developers committed to the same branch. How did you manage?
+
+Q15. Share a time when you used .gitignore to avoid committing sensitive or large files.
+
+Q16. How did you handle switching between multiple Git branches during parallel development?
+
+Q17. Describe how you implemented Git Flow strategy in a real project.
+
+Q18. How did you deal with accidental commits to the main branch?
+
+Q19. Explain how you performed a rollback using Git in a production deployment.
+
+Q20. How did you use GitHub Actions or CI/CD with Git branches?
+
+Q21. How did you rename a Git branch that was incorrectly named?
+
+Q22. Share an experience where you recovered deleted Git commits.
+
+Q23. How did you resolve the ‘detached HEAD’ state during testing?
+
+Q24. Describe a time when you cleaned up unnecessary local Git branches.
+
+Q25. How did you enforce branch protection rules in GitHub?
+
+Q26. How did you handle a situation where a Git clone operation was failing due to authentication issues?
+
+Q27. Explain how you verified Git remote URL misconfiguration in a live CI/CD pipeline.
+
+Q28. How did you use git cherry-pick to backport a fix to multiple branches?
+
+Q29. How did you clean up a large .git history that was bloated due to committed binaries?
+
+Q30. Explain how you monitored contributors and PR activity in a GitHub organization.
+
+Q31. How did you use environment-specific branches like dev, qa, stage, and prod?
+
+Q32. How did you enforce standard commit messages across teams?
+
+Q33. Share a situation where you used GitHub CLI or API from a shell script.
+
+Q34. How did you use GitHub Actions to restrict production deployment only from the prod branch?
+
+Q35. How did you manage changelogs during a large release using Git commit history?
