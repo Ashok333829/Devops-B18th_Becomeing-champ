@@ -1,0 +1,39 @@
+Devops
+Devsecops
+Aws 
+Mlops
+Aiops
+Sre
+Multi cloud
+Git and Github
+mavan
+sonarqube
+nexus
+jenkins
+Githubaction
+Docker
+Ansible
+Terraform
+K8s and EKS
+Linux
+python/shellscript
+Helm charts
+promenthes
+grafana
+Argocd
+Ant
+gradel
+jira
+
+
+
+This example.txt file is created to show example for symbols like ">" and ">>"
+
+> -> overright, completely erise code with file.
+>> -> Oppend, This well copy the code and past on another file without lose any data.
+
+By using > we need to create file also , 
+  
+   cat > <f.name>
+
+This are all tools are related to Devops engineer to follow .

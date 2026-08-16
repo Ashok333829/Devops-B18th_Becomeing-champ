@@ -10,6 +10,9 @@ Move file in3 ways to central,
 backword the file by doing Reset,
 Stashing the files,
 Tags,
+permissions - chmod ,chown, chgrp .
+
+Finally push this all to cental repo github.
 
 All linux commands practice.
 
