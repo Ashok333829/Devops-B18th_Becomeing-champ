@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> Day17
 This readme file refers to practiced all git concepts on Day17th-09 .\
 
 git branching
@@ -8,4 +11,7 @@ git tags
 git stash
 
 
+<<<<<<< HEAD
 >>>>>>> 344af08 (This Readme file re-texted modified and commited.)
+=======
+>>>>>>> Day17
